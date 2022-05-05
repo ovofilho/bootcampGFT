@@ -30,7 +30,7 @@ public class Temperatura {
         meses.add("Setembro");
         meses.add("Outubro");
         meses.add("Novembro");
-        meses.add("Dezembro");
+        
     }
     public String getMes(int i){
         return meses.get(i);
